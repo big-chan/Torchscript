@@ -1,5 +1,5 @@
 # Torchscript
 
-## 1.0 ver
+## 2.0 ver
 
-- For eval AF-model on Xavier
+- For eval SF-Multimodel on Xavier
